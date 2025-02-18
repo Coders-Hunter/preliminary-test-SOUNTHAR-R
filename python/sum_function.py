@@ -1,5 +1,5 @@
 def sum_numbers(a, b):
-    print("sum of two number is:",a+b)
+    return a+b
 
 
 num1 = int(input("Enter first number: "))
